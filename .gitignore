@@ -1,10 +1,11 @@
-*~
+G*~
 _*
 *.o
 *.d
 *.asm
 *.sym
 *.img
+*.img.bk
 vectors.S
 bootblock
 entryother
@@ -26,4 +27,3 @@ barrier
 *.dSYM
 *.pcap
 TAGS
-
